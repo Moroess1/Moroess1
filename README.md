@@ -1,6 +1,6 @@
 <img src="https://i.ytimg.com/vi/h_2dy0pFI-w/maxresdefault.jpg" style="width:100%">
 # 💫 About Me:
-Kornienko Andrey IT-1 PSU university<br>- 18 y.o.<br>- 12k mmr<br>- 3k elo<br>- epeleptic kid enjoyer
+<h2>Kornienko Andrey IT-1 PSU university<br>- 18 y.o.<br>- 12k mmr<br>- 3k elo<br>- epeleptic kid enjoyer</h2>
 
 
 # 💻 Tech Stack:
